@@ -1,0 +1,5 @@
+{
+  "name": "Steam Login Clone",
+  "description": "A Steam-inspired login page that connects to Supabase for data storage.",
+  "requestFramePermissions": []
+}
